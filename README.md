@@ -1,5 +1,9 @@
 # Neural Networks Exercises
 
+
+https://github.com/user-attachments/assets/2c372342-74dc-49e3-9497-83e2085e42ab
+
+
 This repo contains simple and basic Neural Network exercises that I'm wrtiring to grasp its concepts better, my goal is to start from basic go deeper in time.
 
 **Why I made This Repo?**  
