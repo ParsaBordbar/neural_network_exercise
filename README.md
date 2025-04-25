@@ -1,4 +1,5 @@
 # Neural Networks Exercises
+![ChatGPT Image Apr 25, 2025, 07_18_45 PM](https://github.com/user-attachments/assets/49430870-48b8-4d80-9c1a-458f5181ce3f)
 
 
 https://github.com/user-attachments/assets/2c372342-74dc-49e3-9497-83e2085e42ab
