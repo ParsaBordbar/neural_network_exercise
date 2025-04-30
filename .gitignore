@@ -10,3 +10,6 @@ __pycache__/
 *.data
 *.log
 *.sqlite
+**.jpg
+**.png
+**.venv
